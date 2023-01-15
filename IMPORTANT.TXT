@@ -1,0 +1,25 @@
+pe Server: 
+cd server
+cd server
+
+ npm install bcrypt
+ npm install cors
+ npm install dotenv
+ npm install express
+ npm install jsonwebtoken
+ npm install react
+ npm install react-dom
+ npm install sequelize
+ npm install sqlite3
+ npm install validator
+
+Pe Client:
+cd client
+cd my-app
+
+ npm install bootstrap
+ npm install react
+ npm install react-bootstrap
+ npm install react-dom
+ npm install react-router-dom
+ npm install react-scripts
